@@ -38,7 +38,7 @@ p {
 	margin: 0 0 1em !important;
 	font-size: 13px;
 }
-h1, h2, h3, h4, h5, h6, #home .heading strong {color: #24298f;}
+h1, h2, h3, h4, h5, h6, #home .heading strong {color: #24298f;font-family: 'Montserrat', sans-serif;}
 .fitImage {
 	max-width: 100%;
 	vertical-align: middle;
